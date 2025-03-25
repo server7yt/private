@@ -1,0 +1,8 @@
+{
+    "initial_parameters": 3,
+    "initial_threads": "900",
+    "initial_packets": "15",
+    "initial_binary": "bgmi",
+    "max_attack_time": 300,
+    "attack_cooldown": 20
+}

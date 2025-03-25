@@ -1,0 +1,615 @@
+Username: Pk_Chopra
+Target: 20.198.72.178
+Port: 29961
+Time: 300
+
+Username: Pk_Chopra
+Target: 20.198.78.134
+Port: 23767
+Time: 240
+
+Username: VermaG007
+Target: 20.219.76.178
+Port: 22464
+Time: 220
+
+Username: RUSSIANLOADEROWNER
+Target: 20.204.39.31
+Port: 19344
+Time: 120
+
+Username: VermaG007
+Target: 20.219.76.178
+Port: 22464
+Time: 240
+
+Username: VermaG007
+Target: 20.235.50.135
+Port: 16129
+Time: 240
+
+Username: RUSSIANLOADEROWNER
+Target: 20.204.39.31
+Port: 19344
+Time: 120
+
+Username: VermaG007
+Target: 20.198.101.129
+Port: 11754
+Time: 240
+
+Username: VermaG007
+Target: 20.204.180.33
+Port: 29780
+Time: 240
+
+Username: RUSSIANLOADEROWNER
+Target: 20.198.74.96
+Port: 21013
+Time: 120
+
+Username: adolfdumbatman
+Target: 20.219.161.183
+Port: 26799
+Time: 300
+
+Username: RUSSIANLOADEROWNER
+Target: 20.204.21.128
+Port: 11152
+Time: 120
+
+Username: adolfdumbatman
+Target: 20.235.51.232
+Port: 23063
+Time: 120
+
+Username: RUSSIANLOADEROWNER
+Target: 20.235.32.21
+Port: 23099
+Time: 120
+
+Username: adolfdumbatman
+Target: 4.213.68.240
+Port: 29748
+Time: 240
+
+Username: MrRAGHUVANSH
+Target: 4.247.17.91
+Port: 15284
+Time: 240
+
+Username: fc4_MAX_OWNER
+Target: 20.235.10.129
+Port: 11966
+Time: 180
+
+Username: fc4_MAX_OWNER
+Target: 20.204.159.239
+Port: 25445
+Time: 180
+
+Username: fc4_MAX_OWNER
+Target: 20.219.79.58
+Port: 28286
+Time: 180
+
+Username: MrRAGHUVANSH
+Target: 20.204.178.174
+Port: 27816
+Time: 220
+
+Username: 6265730677
+Target: 20.204.39.217
+Port: 18683
+Time: 60
+
+Username: 6265730677
+Target: 20.204.20.212
+Port: 10767
+Time: 240
+
+Username: 6265730677
+Target: 20.235.143.91
+Port: 29067
+Time: 240
+
+Username: 6265730677
+Target: 20.235.95.67
+Port: 29087
+Time: 240
+
+Username: adolfdumbatman
+Target: 20.204.191.209
+Port: 10296
+Time: 300
+
+Username: 6265730677
+Target: 20.198.75.192
+Port: 16747
+Time: 240
+
+Username: 6265730677
+Target: 20.198.75.180
+Port: 20895
+Time: 240
+
+Username: 6265730677
+Target: 20.204.88.30
+Port: 11153
+Time: 240
+
+Username: 6265730677
+Target: 4.213.64.189
+Port: 10181
+Time: 240
+
+Username: 6265730677
+Target: 20.198.110.239
+Port: 11271
+Time: 240
+
+Username: 7521977620
+Target: 20.204.190.20
+Port: 10022
+Time: 240
+
+Username: 6265730677
+Target: 20.204.10.249
+Port: 28225
+Time: 240
+
+Username: 6265730677
+Target: 20.204.10.249
+Port: 28225
+Time: 180
+
+Username: 7521977620
+Target: 20.235.93.18
+Port: 29991
+Time: 240
+
+Username: 7521977620
+Target: 20.204.18.216
+Port: 10712
+Time: 240
+
+Username: VermaG007
+Target: 20.198.111.205
+Port: 19748
+Time: 240
+
+Username: VermaG007
+Target: 20.198.111.205
+Port: 19748
+Time: 240
+
+Username: 6043981879
+Target: 20.198.79.184
+Port: 13539
+Time: 240
+
+Username: 7521977620
+Target: 20.235.89.104
+Port: 25554
+Time: 240
+
+Username: 7521977620
+Target: 52.172.25.254
+Port: 13258
+Time: 240
+
+Username: VermaG007
+Target: 20.204.159.247
+Port: 29101
+Time: 240
+
+Username: 7521977620
+Target: 52.172.25.254
+Port: 13258
+Time: 120
+
+Username: 7521977620
+Target: 52.172.25.254
+Port: 13258
+Time: 120
+
+Username: 6265730677
+Target: 20.198.111.211
+Port: 28389
+Time: 240
+
+Username: VermaG007
+Target: 20.204.176.194
+Port: 22931
+Time: 240
+
+Username: Pk_Chopra
+Target: 20.235.18.229
+Port: 28628
+Time: 240
+
+Username: 7521977620
+Target: 20.235.17.222
+Port: 16175
+Time: 240
+
+Username: 6043981879
+Target: 20.219.167.158
+Port: 16015
+Time: 290
+
+Username: 6265730677
+Target: 20.204.178.244
+Port: 12697
+Time: 240
+
+Username: 6043981879
+Target: 20.204.17.0
+Port: 10529
+Time: 290
+
+Username: 6265730677
+Target: 20.235.92.124
+Port: 14312
+Time: 180
+
+Username: 6043981879
+Target: 4.213.64.116
+Port: 28264
+Time: 290
+
+Username: 6043981879
+Target: 20.204.17.98
+Port: 28639
+Time: 290
+
+Username: 6265730677
+Target: 20.204.148.45
+Port: 18359
+Time: 240
+
+Username: VermaG007
+Target: 20.235.90.227
+Port: 17140
+Time: 240
+
+Username: 6043981879
+Target: 20.235.89.199
+Port: 14386
+Time: 280
+
+Username: VermaG007
+Target: 20.235.21.232
+Port: 17136
+Time: 240
+
+Username: Vectorbhai
+Target: 20.219.163.85
+Port: 14244
+Time: 60
+
+Username: Pk_Chopra
+Target: 20.235.19.164
+Port: 21425
+Time: 240
+
+Username: Vectorbhai
+Target: 20.219.166.126
+Port: 17568
+Time: 240
+
+Username: 6043981879
+Target: 20.204.39.75
+Port: 10042
+Time: 300
+
+Username: Rich_Evil_Owner
+Target: 20.198.106.109
+Port: 14108
+Time: 180
+
+Username: 7521977620
+Target: 20.204.179.82
+Port: 25731
+Time: 240
+
+Username: Rich_Evil_Owner
+Target: 20.198.106.109
+Port: 14108
+Time: 120
+
+Username: 7521977620
+Target: 20.204.88.30
+Port: 11021
+Time: 240
+
+Username: RUSSIANLOADEROWNER
+Target: 4.213.65.113
+Port: 10872
+Time: 120
+
+Username: RUSSIANLOADEROWNER
+Target: 4.213.65.113
+Port: 10872
+Time: 120
+
+Username: fc4_MAX_OWNER
+Target: 20.204.89.21
+Port: 28676
+Time: 18
+
+Username: Rich_Evil_Owner
+Target: 20.198.79.2
+Port: 26403
+Time: 180
+
+Username: RUSSIANLOADEROWNER
+Target: 20.219.6.236
+Port: 10205
+Time: 120
+
+Username: Javaid_Rashid
+Target: 20.204.181.190
+Port: 16034
+Time: 240
+
+Username: Rich_Evil_Owner
+Target: 20.204.181.166
+Port: 27276
+Time: 180
+
+Username: Rich_Evil_Owner
+Target: 52.140.45.128
+Port: 17037
+Time: 180
+
+Username: 7521977620
+Target: 20.235.93.241
+Port: 12812
+Time: 240
+
+Username: RUSSIANLOADEROWNER
+Target: 20.198.111.131
+Port: 19746
+Time: 120
+
+Username: fc4_MAX_OWNER
+Target: 20.198.111.131
+Port: 19746
+Time: 180
+
+Username: 7521977620
+Target: 20.204.181.166
+Port: 27063
+Time: 240
+
+Username: fc4_MAX_OWNER
+Target: 20.204.13.166
+Port: 10558
+Time: 240
+
+Username: RUSSIANLOADEROWNER
+Target: 20.204.13.166
+Port: 10558
+Time: 120
+
+Username: Rich_Evil_Owner
+Target: 20.235.95.34
+Port: 22743
+Time: 180
+
+Username: Vectorbhai
+Target: 52.140.18.42
+Port: 13985
+Time: 240
+
+Username: 7521977620
+Target: 20.204.17.190
+Port: 10385
+Time: 120
+
+Username: RUSSIANLOADEROWNER
+Target: 20.235.53.58
+Port: 29222
+Time: 120
+
+Username: fc4_MAX_OWNER
+Target: 20.235.53.58
+Port: 29222
+Time: 240
+
+Username: 7521977620
+Target: 20.219.161.183
+Port: 26677
+Time: 200
+
+Username: 7521977620
+Target: 4.247.20.25
+Port: 21873
+Time: 240
+
+Username: 7521977620
+Target: 4.247.20.25
+Port: 21873
+Time: 240
+
+Username: 7521977620
+Target: 20.219.6.192
+Port: 15458
+Time: 240
+
+Username: 7521977620
+Target: 20.198.82.124
+Port: 26581
+Time: 240
+
+Username: 7521977620
+Target: 20.198.82.124
+Port: 26581
+Time: 240
+
+Username: 7521977620
+Target: 20.204.155.49
+Port: 11384
+Time: 240
+
+Username: 7521977620
+Target: 20.204.155.49
+Port: 11384
+Time: 240
+
+Username: 7521977620
+Target: 20.204.155.49
+Port: 11384
+Time: 120
+
+Username: 7521977620
+Target: 20.235.93.233
+Port: 20468
+Time: 120
+
+Username: 6265730677
+Target: 20.235.93.196
+Port: 25065
+Time: 240
+
+Username: adolfdumbatman
+Target: 20.219.167.158
+Port: 16237
+Time: 300
+
+Username: Pk_Chopra
+Target: 20.219.76.156
+Port: 25793
+Time: 60
+
+Username: 6043981879
+Target: 20.235.91.70.
+Port: 20949
+Time: 300
+
+Username: 6043981879
+Target: 20.204.179.88
+Port: 26294
+Time: 200
+
+Username: Vectorbhai
+Target: 20.204.189.246
+Port: 10062
+Time: 240
+
+Username: Vectorbhai
+Target: 20.193.224.153
+Port: 18571
+Time: 240
+
+Username: Vectorbhai
+Target: 20.198.109.99
+Port: 18489
+Time: 240
+
+Username: Vectorbhai
+Target: 20.198.109.99
+Port: 18489
+Time: 240
+
+Username: 7249119458
+Target: 4.213.65.47
+Port: 28231
+Time: 240
+
+Username: leshansaldanha
+Target: 20.235.150.109
+Port: 26369
+Time: 240
+
+Username: 7249119458
+Target: 20.219.160.167
+Port: 19599
+Time: 240
+
+Username: 7249119458
+Target: 20.198.78.222
+Port: 22788
+Time: 240
+
+Username: 7249119458
+Target: 20.198.73.231
+Port: 17178
+Time: 240
+
+Username: 6265730677
+Target: 20.204.89.21
+Port: 28892
+Time: 240
+
+Username: 7249119458
+Target: 20.204.19.72
+Port: 10921
+Time: 240
+
+Username: 7249119458
+Target: 20.235.93.116
+Port: 12084
+Time: 240
+
+Username: 7249119458
+Target: 4.213.68.39
+Port: 27687
+Time: 300
+
+Username: 7249119458
+Target: 20.235.92.64
+Port: 29611
+Time: 240
+
+Username: 6043981879
+Target: 4.213.65.47
+Port: 28043
+Time: 240
+
+Username: leshansaldanha
+Target: 4.213.65.133
+Port: 14956
+Time: 240
+
+Username: 6043981879
+Target: 20.235.88.151
+Port: 21211
+Time: 230
+
+Username: Javaid_Rashid
+Target: 20.198.111.205
+Port: 19616
+Time: 240
+
+Username: 7249119458
+Target: 4.213.64.129
+Port: 26502
+Time: 240
+
+Username: 7249119458
+Target: 20.204.18.23
+Port: 10897
+Time: 240
+
+Username: 7249119458
+Target: 20.204.18.23
+Port: 10897
+Time: 60
+
+Username: 7249119458
+Target: 20.204.18.23
+Port: 10897
+Time: 120
+
+Username: leshansaldanha
+Target: 20.204.53.122
+Port: 16307
+Time: 240
+
+Username: leshansaldanha
+Target: 20.219.165.44
+Port: 22748
+Time: 240
+
